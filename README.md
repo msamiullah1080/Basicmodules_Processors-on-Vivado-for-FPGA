@@ -5,7 +5,6 @@
 - [Overview](#overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 
 
@@ -26,14 +25,6 @@ Before you start, ensure you have the following prerequisites in place:
 2. **FPGA Hardware:** You should have access to the FPGA hardware you intend to program with the Verilog modules and processors from this repository.
 
 
-### Installation
-
-**Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/msamiullah1080/Basicmodules_Processors-on-Vivado-for-FPGA.git
-
-   ```
 ### Usage
 
 1. **Open Vivado:**
